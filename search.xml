@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>林永琪的第一篇博客</title>
+    <url>/2023/09/20/%E6%9E%97%E6%B0%B8%E7%90%AA%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>欢迎来到林永琪的博客</p>
+<h2 id="快速了解"><a href="#快速了解" class="headerlink" title="快速了解"></a>快速了解</h2><h3 id="为什么要花时间做一个博客"><a href="#为什么要花时间做一个博客" class="headerlink" title="为什么要花时间做一个博客"></a>为什么要花时间做一个博客</h3><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">一直以来有一个想法，就是能搭建属于自己的个人网站，那为什么放在最近来做这件事情呢。</span><br><span class="line">是因为我前几天在重新制作投递简历的时候，感觉附件部分空空的。</span><br><span class="line">我当时就在想，如果我能放一个二维码或者链接上去，就会让简历更丰富一些。</span><br><span class="line">在个人博客和小程序之间，因为时间比较匆忙，需要花时间去做毕业论文。</span><br><span class="line">最终我选择了制作起来更容易些的个人博客，这样的一种形式。</span><br></pre></td></tr></table></figure></div>
+
+
+<h3 id="这个博客是如何实现的"><a href="#这个博客是如何实现的" class="headerlink" title="这个博客是如何实现的"></a>这个博客是如何实现的</h3><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">制作这个个人博客网站大概花了我一天左右的时间</span><br><span class="line">接下来就从小白的角度，谈一谈我是如何实现这个个人博客的</span><br><span class="line">首先了解了，目前实现个人博客的几种方式：WordPress，Typecho，Hexo</span><br><span class="line">我不太愿意花钱购买VPS，另一个Github Pages是一种免费的静态站点托管服务</span><br><span class="line">所以我选择了静态博客形式的Hexo</span><br><span class="line"></span><br><span class="line">接下来，跟着知乎上的一些教程，搭建Node.js与Git环境，创建Github Pages仓库，本地安装Hexo博客程序</span><br><span class="line">利用了阿里云申请了linyongqi.com这一域名，接着进行了域名解析，将Hexo博客程序部署到Github Pages上</span><br><span class="line">绑定域名到Hexo博客，这时候个人博客的雏形就有了</span><br><span class="line"></span><br><span class="line">后面就是选择合适的主题，这个个人博客我选用的是Redefine主题（主要还是被背景吸引了）</span><br><span class="line">根据个人的习惯，对主题进行了适当调整</span><br><span class="line">最后就是学习以下markdown用法，怎么去写博客</span><br><span class="line"></span><br><span class="line">当然，目前这个博客还比较空旷，许多功能我还在摸索，接下来会一步一步完善个人博客</span><br><span class="line"></span><br></pre></td></tr></table></figure></div>
+
+
+<h3 id="接下来博客打算写些什么"><a href="#接下来博客打算写些什么" class="headerlink" title="接下来博客打算写些什么"></a>接下来博客打算写些什么</h3><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">记录学习生活，尤其是现在面临秋招以及毕业论文这两大难题，想记录一下自己是如何克服这些问题的</span><br><span class="line">记录日常，有时候我会拿着相机拍一些照片，有好看的照片，我也想分享到这个博客上（我要先摸索一下如何上传照片hhh）</span><br><span class="line">分享自己看过的有趣的电影，读过的书，听过的好听的音乐，以及玩过的很不错的游戏之类的话题</span><br><span class="line">谈到游戏，话说《博德之门》3就很不错，虽然我是第一次玩这样类型的游戏，但上手以后，很快就喜欢上这款游戏了</span><br><span class="line">DND的世界观，加上优秀的人物刻画，丰富的职业选择，炫酷的法术技能，巧妙的战术选择等等</span><br><span class="line">感觉可以以后写篇文章详细谈一谈</span><br><span class="line"></span><br></pre></td></tr></table></figure></div>
+
+
+<h3 id="有什么话想对屏幕前的人说的么"><a href="#有什么话想对屏幕前的人说的么" class="headerlink" title="有什么话想对屏幕前的人说的么"></a>有什么话想对屏幕前的人说的么</h3><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">于我而言，还是要争取找个好工作，顺利完成毕业论文！</span><br><span class="line">于您而言，谢谢您看我的博客，希望您生活愉快，天天开心！</span><br></pre></td></tr></table></figure></div>
+
+]]></content>
+  </entry>
+</search>
